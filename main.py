@@ -1,4 +1,4 @@
-print("hola")
+print("hola compa")
 #comentario
 a = 1
 b = 2
